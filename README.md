@@ -11,7 +11,6 @@ The assignments consist of two separate tasks:
 ## Prerequisites
 
 - Ensure you have the MARS (MIPS Assembler and Runtime Simulator) tool installed to simulate and run the MIPS assembly code.
-- Familiarity with MIPS assembly language and register conventions.
 
 ## Task Descriptions
 
